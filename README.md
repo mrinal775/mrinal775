@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @mrinal775
+- 👋 Hi, I’m Mrinal Kanti Mahapatra
 - 👀 I’m interested in playing Football
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Field
 - 📫 How to reach me mail me on Mrinalmahapatra177@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 mrinal775/mrinal775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
