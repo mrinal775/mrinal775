@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing Football
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Field
-- 📫 How to reach me mail me on Mrinalmahapatra177@gmail.com
+- 📫 How to reach me mail me at Mrinalmahapatra177@gmail.com
 
 
 <!---
